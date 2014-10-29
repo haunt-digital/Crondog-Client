@@ -2,8 +2,7 @@
 /.pydevproject
 
 .idea
-.pyc
-
+*.pyc
 *.egg-info
 
 build
