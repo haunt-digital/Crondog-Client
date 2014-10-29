@@ -1,0 +1,12 @@
+/.project
+/.pydevproject
+
+.idea
+.pyc
+
+*.egg-info
+
+build
+dist
+working
+
